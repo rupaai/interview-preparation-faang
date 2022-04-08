@@ -20,12 +20,15 @@ The few other things that I made sure to practice were:
 As I am a working professional and I had only 2month-ish to prepare for everything, I couldn't follow any book or even any course. The resources I followed: 
 
 **GeeksForGeeks**
+
 I studied sorting, greedy algorithms and randomized algorithms from this resource.
 
 **Leetcode Explore Tab**
+
 For everything else which includes - heap, dynamic programming, graph, tree, linked list, stack & queue, I found the leetcode explore to be extremely helpful. As it provides problems ritght after a notes, this helped me clear up many things. 
 
 **Miscelleneous**
+
 Whenever I faced difficulty, I just googled. I don't really have most of the links, but still mentioning the few gems I found on leetcode:
 
 - [Binary Search]( [https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems))
