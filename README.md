@@ -1,6 +1,6 @@
 ## Preparation Phase
 
-It took me a bit more than 2 months to prepare for the interviews. I solved around 200-220 problems from leetcode within this time frame. But, I repeated the blind75 list 4 times. Something that I would like to mention is that, no one really has to do it within 2 months if possible. If I could, I would at least take 4 months to prepare. Take things in your own pace. Don't be upset if it takes you more than you expected. It's okay. 
+It took me a bit more than 2 months to prepare for the interviews. I solved around 200-220 problems from leetcode within this time frame. But, I repeated the blind75 list 4 times. Something that I would like to mention is that, no one really has to do it within 2 months if possible. If I could, I would at least take 4 months to prepare. Take things in your own pace. Don't be upset if it takes you more than you expected. It's okay. Also, if you find it difficult to solve problems initially, just know that good things take time.
 
 ### How I studied
 
@@ -8,11 +8,13 @@ Being a working professional while being not so good at data structures and algo
 
 I used to start with a topic and solve problems. For easier topics, I took 2-3days. For the difficult ones(dynamic programming), I took more than 2 weeks. After a week or two, I used to come back to the previous topics and re-solve them. 
 
-To learn the data structures and, to be proficient enough to solve most medium problems within 20-25 minutes, took me around 1 and a half month. Within this time(end of february), I solved all the blind75 problems 2 times. And 2 more times later on. I could solve them pretty fast by the end. In terms of unseen hard problems, sometimes, I could solve them within 30-50 minutes, sometimes I couldn't. So, I can't really give a proper estimation for this. 
+To learn the data structures and, to be proficient enough to solve most medium problems within 20-25 minutes, took me around 1 and a half month. I started with the easy ones for each topic. Once I got comfortable with them, I moved on to the next level. My approach to solving a problem was- taking 20 minutes to think about a problem. If I couldn't come up with anything, I would take a look into the solution and learn. After a day or two, I would come back to the problems that I needed help with and would try to implement them on my own. Slowly, I adapted the approaches and didn't have to look at them anymore as frequently as I used to. 
+
+Within end of February, I solved all the blind75 problems 2 times. And 2 more times later on. I could solve them pretty fast by the end. In terms of unseen hard problems, sometimes, I could solve them within 30-50 minutes, sometimes I couldn't. So, I can't really give a proper estimation for this. 
 
 The few other things that I made sure to practice were:
 - always speaking out loud no matter what problem I solved. These days, it kinda became a habit. 
-- Always made sure to write space and time complexity 
+- Always made sure to write space and time complexity in the comments.
 - Once I was confident about problem solving, I put a lot of time on code readability and python-specific features which I will discuss in the later part. 
 
 #### Data Structures & Algorithms 
@@ -25,7 +27,13 @@ I studied sorting, greedy algorithms and randomized algorithms from this resourc
 
 **Leetcode Explore Tab**
 
-For everything else which includes - heap, dynamic programming, graph, tree, linked list, stack & queue, I found the leetcode explore to be extremely helpful. As it provides problems ritght after a notes, this helped me clear up many things. 
+For everything else which includes - heap, dynamic programming, graph, tree, linked list, stack & queue, I found the leetcode explore to be extremely helpful. As it provides problems ritght after notes, this helped me clear up many things. 
+
+**Elements of Programming Interviews**
+A really good book. I loved reading it. But, I didn't read the whole book. Just a few bits here and there. I would suggest to go through this book cover to cover if anyone has time.
+
+**Cracking the coding interview**
+Didn't read much from this one. But, some say it is really good.
 
 **Miscelleneous**
 
@@ -49,7 +57,7 @@ Few things that I remember:
 
 - I read the [google python style guide](https://google.github.io/styleguide/pyguide.html). Couldn't read the whole guide as I didn't have enough time. I just focused more on the sections that would come up in the interviwes
 - I made use of namedtuple, enum, dataclass
-- Whenever I used anything, I explained the reason behind using it
+- Whenever I used any datastructur, I explained the reason behind using it to the interviewer(or myself during practice)
 - If a code logic seemed a bit complex, I used a one-line comment to explain it
 - proper logical naming is really important. Even if I couldn't come up with a good name within a short time, I mentioned that to them.
 - Writing the test cases in commments
@@ -63,6 +71,7 @@ Few things that I remember:
 #### System Design
 
 I didn't really spend much time on this one. Maybe a video from [gaurav sen](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) playlist once or twice a week. During the final days, I studied the [grokking](https://www.educative.io/courses/grokking-the-system-design-interview) course. If you have time, I would suggest always keeping yourself up-to-date with the company specific [engineering blogs](https://github.com/donnemartin/system-design-primer#company-engineering-blogs).
+
 Few other resources that I didn't follow due to time shortage:
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - Desigining Data-Intensive Applications by Martin Kleppman
@@ -85,4 +94,16 @@ I revised and made a document of the details of the projects that I mentioned on
 #### Miscelleneous Topics
 I also revised OS, Database and Networking from undergrad days. Although these didn't come up that much in my case, sometimes, these do. I studied the topics from random sources I found through googling.
 
+
+#### Random
+
+** A few inspirational posts with tips:**
+- https://leetcode.com/discuss/interview-experience/1264757/Microsoft-or-Github-or-FB-or-Etc.-Interview-Preparation-JourneyStrategy
+- https://leetcode.com/discuss/interview-experience/1331647/Google-Mountain-View-Women-in-tech-L6-Offer
+- https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
+
+**A few things that I think helped me:**
+- I always liked reading about others' experiences and what they have to say
+- Always making sure I understand why someone failed in the interviews
+- I kept tracking my progress every single day. I kinda have a diary of two months now. I think this helped me a lot to clear my thoughts.
 
